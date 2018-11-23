@@ -1,0 +1,808 @@
+1537291968:start:extract             : host-lzip
+1537291968:end  :extract             : host-lzip
+1537291968:start:patch               : host-lzip
+1537291968:end  :patch               : host-lzip
+1537291969:start:configure           : host-lzip
+1537291969:end  :configure           : host-lzip
+1537291969:start:build               : host-lzip
+1537291990:end  :build               : host-lzip
+1537291990:start:install-host        : host-lzip
+1537291991:end  :install-host        : host-lzip
+1537291991:start:extract             : skeleton-init-common
+1537291991:end  :extract             : skeleton-init-common
+1537291991:start:patch               : skeleton-init-common
+1537291992:end  :patch               : skeleton-init-common
+1537291992:start:configure           : skeleton-init-common
+1537291992:end  :configure           : skeleton-init-common
+1537291992:start:build               : skeleton-init-common
+1537291992:end  :build               : skeleton-init-common
+1537291992:start:install-staging     : skeleton-init-common
+1537291993:end  :install-staging     : skeleton-init-common
+1537291993:start:install-target      : skeleton-init-common
+1537291993:end  :install-target      : skeleton-init-common
+1537291994:start:extract             : skeleton-init-sysv
+1537291994:end  :extract             : skeleton-init-sysv
+1537291994:start:patch               : skeleton-init-sysv
+1537291995:end  :patch               : skeleton-init-sysv
+1537291995:start:configure           : skeleton-init-sysv
+1537291995:end  :configure           : skeleton-init-sysv
+1537291995:start:build               : skeleton-init-sysv
+1537291995:end  :build               : skeleton-init-sysv
+1537291995:start:install-target      : skeleton-init-sysv
+1537291996:end  :install-target      : skeleton-init-sysv
+1537291996:start:extract             : skeleton
+1537291996:end  :extract             : skeleton
+1537291996:start:patch               : skeleton
+1537291997:end  :patch               : skeleton
+1537291997:start:configure           : skeleton
+1537291997:end  :configure           : skeleton
+1537291997:start:build               : skeleton
+1537291997:end  :build               : skeleton
+1537291997:start:install-target      : skeleton
+1537291998:end  :install-target      : skeleton
+1537291998:start:extract             : toolchain-external-custom
+1537291998:end  :extract             : toolchain-external-custom
+1537291998:start:patch               : toolchain-external-custom
+1537291999:end  :patch               : toolchain-external-custom
+1537291999:start:configure           : toolchain-external-custom
+1537292904:start:configure           : toolchain-external-custom
+1537292905:end  :configure           : toolchain-external-custom
+1537292905:start:build               : toolchain-external-custom
+1537292906:end  :build               : toolchain-external-custom
+1537292906:start:install-staging     : toolchain-external-custom
+1537292915:end  :install-staging     : toolchain-external-custom
+1537292915:start:install-target      : toolchain-external-custom
+1537292918:end  :install-target      : toolchain-external-custom
+1537292919:start:extract             : toolchain-external
+1537292919:end  :extract             : toolchain-external
+1537292919:start:patch               : toolchain-external
+1537292919:end  :patch               : toolchain-external
+1537292920:start:configure           : toolchain-external
+1537292920:end  :configure           : toolchain-external
+1537292920:start:build               : toolchain-external
+1537292920:end  :build               : toolchain-external
+1537292920:start:install-target      : toolchain-external
+1537292921:end  :install-target      : toolchain-external
+1537292921:start:extract             : toolchain
+1537292922:end  :extract             : toolchain
+1537292922:start:patch               : toolchain
+1537292922:end  :patch               : toolchain
+1537292922:start:configure           : toolchain
+1537292922:end  :configure           : toolchain
+1537292922:start:build               : toolchain
+1537292922:end  :build               : toolchain
+1537292923:start:install-target      : toolchain
+1537292923:end  :install-target      : toolchain
+1537292924:start:extract             : host-m4
+1537292925:end  :extract             : host-m4
+1537292925:start:patch               : host-m4
+1537292926:end  :patch               : host-m4
+1537292926:start:configure           : host-m4
+1537293052:end  :configure           : host-m4
+1537293052:start:build               : host-m4
+1537293080:end  :build               : host-m4
+1537293080:start:install-host        : host-m4
+1537293082:end  :install-host        : host-m4
+1537293082:start:extract             : host-libtool
+1537293083:end  :extract             : host-libtool
+1537293083:start:patch               : host-libtool
+1537293083:end  :patch               : host-libtool
+1537293084:start:configure           : host-libtool
+1537293116:end  :configure           : host-libtool
+1537293116:start:build               : host-libtool
+1537293126:end  :build               : host-libtool
+1537293127:start:install-host        : host-libtool
+1537293129:end  :install-host        : host-libtool
+1537293130:start:extract             : host-autoconf
+1537293131:end  :extract             : host-autoconf
+1537293131:start:patch               : host-autoconf
+1537293131:end  :patch               : host-autoconf
+1537293132:start:configure           : host-autoconf
+1537293136:end  :configure           : host-autoconf
+1537293136:start:build               : host-autoconf
+1537293142:end  :build               : host-autoconf
+1537293142:start:install-host        : host-autoconf
+1537293144:end  :install-host        : host-autoconf
+1537293145:start:extract             : host-automake
+1537293146:end  :extract             : host-automake
+1537293146:start:patch               : host-automake
+1537293146:end  :patch               : host-automake
+1537293147:start:configure           : host-automake
+1537293156:end  :configure           : host-automake
+1537293156:start:build               : host-automake
+1537293158:end  :build               : host-automake
+1537293158:start:install-host        : host-automake
+1537293160:end  :install-host        : host-automake
+1537293160:start:extract             : alsa-lib
+1537293162:end  :extract             : alsa-lib
+1537293162:start:patch               : alsa-lib
+1537293162:end  :patch               : alsa-lib
+1537293163:start:configure           : alsa-lib
+1537293231:end  :configure           : alsa-lib
+1537293232:start:build               : alsa-lib
+1537293339:end  :build               : alsa-lib
+1537293339:start:install-staging     : alsa-lib
+1537293343:end  :install-staging     : alsa-lib
+1537293343:start:install-target      : alsa-lib
+1537293347:end  :install-target      : alsa-lib
+1537293349:start:extract             : host-pkgconf
+1537293349:end  :extract             : host-pkgconf
+1537293349:start:patch               : host-pkgconf
+1537293350:end  :patch               : host-pkgconf
+1537293350:start:configure           : host-pkgconf
+1537293355:end  :configure           : host-pkgconf
+1537293355:start:build               : host-pkgconf
+1537293360:end  :build               : host-pkgconf
+1537293360:start:install-host        : host-pkgconf
+1537293360:end  :install-host        : host-pkgconf
+1537293361:start:extract             : host-libxml2
+1537293362:end  :extract             : host-libxml2
+1537293362:start:patch               : host-libxml2
+1537293363:end  :patch               : host-libxml2
+1537293363:start:configure           : host-libxml2
+1537293402:end  :configure           : host-libxml2
+1537293403:start:build               : host-libxml2
+1537293619:end  :build               : host-libxml2
+1537293619:start:install-host        : host-libxml2
+1537293621:end  :install-host        : host-libxml2
+1537293622:start:extract             : host-gettext
+1537293626:end  :extract             : host-gettext
+1537293626:start:patch               : host-gettext
+1537293626:end  :patch               : host-gettext
+1537293627:start:configure           : host-gettext
+1537294054:end  :configure           : host-gettext
+1537294055:start:build               : host-gettext
+1537294572:end  :build               : host-gettext
+1537294572:start:install-host        : host-gettext
+1537294636:end  :install-host        : host-gettext
+1537294637:start:extract             : host-ncurses
+1537294637:end  :extract             : host-ncurses
+1537294638:start:patch               : host-ncurses
+1537294638:end  :patch               : host-ncurses
+1537294638:start:configure           : host-ncurses
+1537294675:end  :configure           : host-ncurses
+1537294675:start:build               : host-ncurses
+1537294794:end  :build               : host-ncurses
+1537294795:start:install-host        : host-ncurses
+1537294862:end  :install-host        : host-ncurses
+1537294862:start:extract             : ncurses
+1537294863:end  :extract             : ncurses
+1537294863:start:patch               : ncurses
+1537294864:end  :patch               : ncurses
+1537294864:start:configure           : ncurses
+1537294898:end  :configure           : ncurses
+1537294898:start:build               : ncurses
+1537294964:end  :build               : ncurses
+1537294965:start:install-staging     : ncurses
+1537294971:end  :install-staging     : ncurses
+1537294971:start:install-target      : ncurses
+1537294978:end  :install-target      : ncurses
+1537294979:start:extract             : alsa-utils
+1537294980:end  :extract             : alsa-utils
+1537294981:start:patch               : alsa-utils
+1537294981:end  :patch               : alsa-utils
+1537294981:start:configure           : alsa-utils
+1537295028:end  :configure           : alsa-utils
+1537295028:start:build               : alsa-utils
+1537295062:end  :build               : alsa-utils
+1537295062:start:install-staging     : alsa-utils
+1537295065:end  :install-staging     : alsa-utils
+1537295066:start:install-target      : alsa-utils
+1537295066:end  :install-target      : alsa-utils
+1537295067:start:extract             : busybox
+1537295070:end  :extract             : busybox
+1537295070:start:patch               : busybox
+1537295070:end  :patch               : busybox
+1537295115:start:configure           : busybox
+1537295116:end  :configure           : busybox
+1537295116:start:build               : busybox
+1537295290:end  :build               : busybox
+1537295291:start:install-target      : busybox
+1537295304:end  :install-target      : busybox
+1537295305:start:extract             : zlib
+1537295306:end  :extract             : zlib
+1537295306:start:patch               : zlib
+1537295306:end  :patch               : zlib
+1537295306:start:configure           : zlib
+1537295309:end  :configure           : zlib
+1537295309:start:build               : zlib
+1537295339:end  :build               : zlib
+1537295339:start:install-staging     : zlib
+1537295339:end  :install-staging     : zlib
+1537295340:start:install-target      : zlib
+1537295340:end  :install-target      : zlib
+1537295341:start:extract             : libpng
+1537295342:end  :extract             : libpng
+1537295342:start:patch               : libpng
+1537295343:end  :patch               : libpng
+1537295343:start:configure           : libpng
+1537295360:end  :configure           : libpng
+1537295360:start:build               : libpng
+1537295399:end  :build               : libpng
+1537295399:start:install-staging     : libpng
+1537295400:end  :install-staging     : libpng
+1537295400:start:install-target      : libpng
+1537295401:end  :install-target      : libpng
+1537295403:start:extract             : sdl
+1537295403:end  :extract             : sdl
+1537295403:start:patch               : sdl
+1537295404:end  :patch               : sdl
+1537295404:start:configure           : sdl
+1537295472:end  :configure           : sdl
+1537295472:start:build               : sdl
+1537295507:end  :build               : sdl
+1537295508:start:install-staging     : sdl
+1537295511:end  :install-staging     : sdl
+1537295511:start:install-target      : sdl
+1537295515:end  :install-target      : sdl
+1537295517:start:extract             : sdl_mixer
+1537295517:end  :extract             : sdl_mixer
+1537295517:start:patch               : sdl_mixer
+1537295518:end  :patch               : sdl_mixer
+1537295518:start:configure           : sdl_mixer
+1537295556:end  :configure           : sdl_mixer
+1537295556:start:build               : sdl_mixer
+1537295565:end  :build               : sdl_mixer
+1537295565:start:install-staging     : sdl_mixer
+1537295566:end  :install-staging     : sdl_mixer
+1537295566:start:install-target      : sdl_mixer
+1537295567:end  :install-target      : sdl_mixer
+1537295568:start:extract             : sdl_net
+1537295568:end  :extract             : sdl_net
+1537295568:start:patch               : sdl_net
+1537295569:end  :patch               : sdl_net
+1537295569:start:configure           : sdl_net
+1537295586:end  :configure           : sdl_net
+1537295586:start:build               : sdl_net
+1537295589:end  :build               : sdl_net
+1537295589:start:install-staging     : sdl_net
+1537295590:end  :install-staging     : sdl_net
+1537295590:start:install-target      : sdl_net
+1537295591:end  :install-target      : sdl_net
+1537295592:start:extract             : chocolate-doom
+1537295592:end  :extract             : chocolate-doom
+1537295593:start:patch               : chocolate-doom
+1537295593:end  :patch               : chocolate-doom
+1537295593:start:configure           : chocolate-doom
+1537295621:end  :configure           : chocolate-doom
+1537295621:start:build               : chocolate-doom
+1537295797:end  :build               : chocolate-doom
+1537295797:start:install-target      : chocolate-doom
+1537295798:end  :install-target      : chocolate-doom
+1537295799:start:extract             : doom-wad
+1537295800:end  :extract             : doom-wad
+1537295800:start:patch               : doom-wad
+1537295800:end  :patch               : doom-wad
+1537295800:start:configure           : doom-wad
+1537295800:end  :configure           : doom-wad
+1537295800:start:build               : doom-wad
+1537295800:end  :build               : doom-wad
+1537295801:start:install-target      : doom-wad
+1537295801:end  :install-target      : doom-wad
+1537295802:start:extract             : host-bison
+1537295803:end  :extract             : host-bison
+1537295803:start:patch               : host-bison
+1537295804:end  :patch               : host-bison
+1537295804:start:configure           : host-bison
+1537295967:end  :configure           : host-bison
+1537295968:start:build               : host-bison
+1537296017:end  :build               : host-bison
+1537296017:start:install-host        : host-bison
+1537296020:end  :install-host        : host-bison
+1537296021:start:extract             : host-flex
+1537296021:end  :extract             : host-flex
+1537296021:start:patch               : host-flex
+1537296022:end  :patch               : host-flex
+1537296022:start:configure           : host-flex
+1537296103:end  :configure           : host-flex
+1537296103:start:build               : host-flex
+1537315904:start:build               : host-flex
+1537315945:end  :build               : host-flex
+1537315945:start:install-host        : host-flex
+1537315947:end  :install-host        : host-flex
+1537315948:start:extract             : dtc
+1537315948:end  :extract             : dtc
+1537315948:start:patch               : dtc
+1537315948:end  :patch               : dtc
+1537315949:start:configure           : dtc
+1537315949:end  :configure           : dtc
+1537315949:start:build               : dtc
+1537315967:end  :build               : dtc
+1537315967:start:install-staging     : dtc
+1537315968:end  :install-staging     : dtc
+1537315968:start:install-target      : dtc
+1537315969:end  :install-target      : dtc
+1537315970:start:extract             : freetype
+1537315973:end  :extract             : freetype
+1537315973:start:patch               : freetype
+1537315985:end  :patch               : freetype
+1537315985:start:configure           : freetype
+1537316007:end  :configure           : freetype
+1537316008:start:build               : freetype
+1537316071:end  :build               : freetype
+1537316071:start:install-staging     : freetype
+1537316073:end  :install-staging     : freetype
+1537316073:start:install-target      : freetype
+1537316075:end  :install-target      : freetype
+1537316077:start:extract             : sdl2
+1537316079:end  :extract             : sdl2
+1537316079:start:patch               : sdl2
+1537316080:end  :patch               : sdl2
+1537316080:start:configure           : sdl2
+1537316144:end  :configure           : sdl2
+1537316144:start:build               : sdl2
+1537316324:end  :build               : sdl2
+1537316324:start:install-staging     : sdl2
+1537316325:end  :install-staging     : sdl2
+1537316325:start:install-target      : sdl2
+1537316327:end  :install-target      : sdl2
+1537316330:start:extract             : ffmpeg
+1537316333:end  :extract             : ffmpeg
+1537316333:start:patch               : ffmpeg
+1537316334:end  :patch               : ffmpeg
+1537316334:start:configure           : ffmpeg
+1537316398:end  :configure           : ffmpeg
+1537316398:start:build               : ffmpeg
+1537318478:end  :build               : ffmpeg
+1537318479:start:install-staging     : ffmpeg
+1537318482:end  :install-staging     : ffmpeg
+1537318482:start:install-target      : ffmpeg
+1537318486:end  :install-target      : ffmpeg
+1537318490:start:extract             : initscripts
+1537318490:end  :extract             : initscripts
+1537318490:start:patch               : initscripts
+1537318490:end  :patch               : initscripts
+1537318490:start:configure           : initscripts
+1537318491:end  :configure           : initscripts
+1537318491:start:build               : initscripts
+1537318491:end  :build               : initscripts
+1537318491:start:install-target      : initscripts
+1537318492:end  :install-target      : initscripts
+1537318494:start:extract             : libnl
+1537318494:end  :extract             : libnl
+1537318495:start:patch               : libnl
+1537318495:end  :patch               : libnl
+1537318495:start:configure           : libnl
+1537318547:end  :configure           : libnl
+1537318547:start:build               : libnl
+1537318652:end  :build               : libnl
+1537318652:start:install-staging     : libnl
+1537318653:end  :install-staging     : libnl
+1537318654:start:install-target      : libnl
+1537318656:end  :install-target      : libnl
+1537318660:start:extract             : iw
+1537318660:end  :extract             : iw
+1537318660:start:patch               : iw
+1537318661:end  :patch               : iw
+1537318661:start:configure           : iw
+1537318661:end  :configure           : iw
+1537318661:start:build               : iw
+1537318678:end  :build               : iw
+1537318678:start:install-target      : iw
+1537318679:end  :install-target      : iw
+1537318681:start:extract             : jpeg-turbo
+1537318681:end  :extract             : jpeg-turbo
+1537318682:start:patch               : jpeg-turbo
+1537318682:end  :patch               : jpeg-turbo
+1537318682:start:configure           : jpeg-turbo
+1537318703:end  :configure           : jpeg-turbo
+1537318703:start:build               : jpeg-turbo
+1537318790:end  :build               : jpeg-turbo
+1537318790:start:install-staging     : jpeg-turbo
+1537318791:end  :install-staging     : jpeg-turbo
+1537318792:start:install-target      : jpeg-turbo
+1537318794:end  :install-target      : jpeg-turbo
+1537318796:start:extract             : jpeg
+1537318796:end  :extract             : jpeg
+1537318796:start:patch               : jpeg
+1537318797:end  :patch               : jpeg
+1537318797:start:configure           : jpeg
+1537318797:end  :configure           : jpeg
+1537318797:start:build               : jpeg
+1537318797:end  :build               : jpeg
+1537318797:start:install-target      : jpeg
+1537318799:end  :install-target      : jpeg
+1537318800:start:extract             : libusb
+1537318801:end  :extract             : libusb
+1537318801:start:patch               : libusb
+1537318802:end  :patch               : libusb
+1537318802:start:configure           : libusb
+1537318823:end  :configure           : libusb
+1537318823:start:build               : libusb
+1537318832:end  :build               : libusb
+1537318832:start:install-staging     : libusb
+1537318833:end  :install-staging     : libusb
+1537318833:start:install-target      : libusb
+1537318834:end  :install-target      : libusb
+1537318836:start:extract             : libusb-compat
+1537318837:end  :extract             : libusb-compat
+1537318837:start:patch               : libusb-compat
+1537318837:end  :patch               : libusb-compat
+1537318838:start:configure           : libusb-compat
+1537318852:end  :configure           : libusb-compat
+1537318852:start:build               : libusb-compat
+1537318855:end  :build               : libusb-compat
+1537318855:start:install-staging     : libusb-compat
+1537318855:end  :install-staging     : libusb-compat
+1537318856:start:install-target      : libusb-compat
+1537318857:end  :install-target      : libusb-compat
+1537318859:start:extract             : mmc-utils
+1537318859:end  :extract             : mmc-utils
+1537318859:start:patch               : mmc-utils
+1537318860:end  :patch               : mmc-utils
+1537318860:start:configure           : mmc-utils
+1537318860:end  :configure           : mmc-utils
+1537318860:start:build               : mmc-utils
+1537318865:end  :build               : mmc-utils
+1537318865:start:install-target      : mmc-utils
+1537318866:end  :install-target      : mmc-utils
+1537318868:start:extract             : mplayer
+1537318874:end  :extract             : mplayer
+1537318874:start:patch               : mplayer
+1537318875:end  :patch               : mplayer
+1537318875:start:configure           : mplayer
+1537318944:end  :configure           : mplayer
+1537318944:start:build               : mplayer
+1537319907:end  :build               : mplayer
+1537319907:start:install-target      : mplayer
+1537319910:end  :install-target      : mplayer
+1537319912:start:extract             : host-patchelf
+1537319913:end  :extract             : host-patchelf
+1537319913:start:patch               : host-patchelf
+1537319913:end  :patch               : host-patchelf
+1537319914:start:configure           : host-patchelf
+1537319918:end  :configure           : host-patchelf
+1537319918:start:build               : host-patchelf
+1537319940:end  :build               : host-patchelf
+1537319940:start:install-host        : host-patchelf
+1537319940:end  :install-host        : host-patchelf
+1537319941:start:extract             : sdl_gfx
+1537319942:end  :extract             : sdl_gfx
+1537319942:start:patch               : sdl_gfx
+1537319942:end  :patch               : sdl_gfx
+1537319942:start:configure           : sdl_gfx
+1537319958:end  :configure           : sdl_gfx
+1537319959:start:build               : sdl_gfx
+1537319973:end  :build               : sdl_gfx
+1537319974:start:install-staging     : sdl_gfx
+1537319974:end  :install-staging     : sdl_gfx
+1537319974:start:install-target      : sdl_gfx
+1537319976:end  :install-target      : sdl_gfx
+1537319978:start:extract             : tiff
+1537319979:end  :extract             : tiff
+1537319979:start:patch               : tiff
+1537319979:end  :patch               : tiff
+1537319979:start:configure           : tiff
+1537320032:end  :configure           : tiff
+1537320032:start:build               : tiff
+1537320068:end  :build               : tiff
+1537320069:start:install-staging     : tiff
+1537320070:end  :install-staging     : tiff
+1537320070:start:install-target      : tiff
+1537320072:end  :install-target      : tiff
+1537320074:start:extract             : webp
+1537320074:end  :extract             : webp
+1537320074:start:patch               : webp
+1537320075:end  :patch               : webp
+1537320075:start:configure           : webp
+1537320100:end  :configure           : webp
+1537320100:start:build               : webp
+1537320154:end  :build               : webp
+1537320154:start:install-staging     : webp
+1537320155:end  :install-staging     : webp
+1537320155:start:install-target      : webp
+1537320157:end  :install-target      : webp
+1537320160:start:extract             : sdl_image
+1537320160:end  :extract             : sdl_image
+1537320160:start:patch               : sdl_image
+1537320161:end  :patch               : sdl_image
+1537320161:start:configure           : sdl_image
+1537320180:end  :configure           : sdl_image
+1537320180:start:build               : sdl_image
+1537320190:end  :build               : sdl_image
+1537320190:start:install-staging     : sdl_image
+1537320191:end  :install-staging     : sdl_image
+1537320191:start:install-target      : sdl_image
+1537320192:end  :install-target      : sdl_image
+1537320194:start:extract             : sdl_sound
+1537320195:end  :extract             : sdl_sound
+1537320195:start:patch               : sdl_sound
+1537320195:end  :patch               : sdl_sound
+1537320196:start:configure           : sdl_sound
+1537320222:end  :configure           : sdl_sound
+1537320222:start:build               : sdl_sound
+1537320272:end  :build               : sdl_sound
+1537320272:start:install-staging     : sdl_sound
+1537320273:end  :install-staging     : sdl_sound
+1537320273:start:install-target      : sdl_sound
+1537320276:end  :install-target      : sdl_sound
+1537320278:start:extract             : sdl_ttf
+1537320279:end  :extract             : sdl_ttf
+1537320279:start:patch               : sdl_ttf
+1537320279:end  :patch               : sdl_ttf
+1537320280:start:configure           : sdl_ttf
+1537320295:end  :configure           : sdl_ttf
+1537320295:start:build               : sdl_ttf
+1537320300:end  :build               : sdl_ttf
+1537320300:start:install-staging     : sdl_ttf
+1537320301:end  :install-staging     : sdl_ttf
+1537320301:start:install-target      : sdl_ttf
+1537320303:end  :install-target      : sdl_ttf
+1537320305:start:extract             : tinyalsa
+1537320305:end  :extract             : tinyalsa
+1537320305:start:patch               : tinyalsa
+1537320305:end  :patch               : tinyalsa
+1537320305:start:configure           : tinyalsa
+1537320305:end  :configure           : tinyalsa
+1537320306:start:build               : tinyalsa
+1537320312:end  :build               : tinyalsa
+1537320312:start:install-staging     : tinyalsa
+1537320312:end  :install-staging     : tinyalsa
+1537320313:start:install-target      : tinyalsa
+1537320314:end  :install-target      : tinyalsa
+1537320316:start:extract             : host-attr
+1537320317:end  :extract             : host-attr
+1537320317:start:patch               : host-attr
+1537320317:end  :patch               : host-attr
+1537320317:start:configure           : host-attr
+1537320332:end  :configure           : host-attr
+1537320332:start:build               : host-attr
+1537320340:end  :build               : host-attr
+1537320340:start:install-host        : host-attr
+1537320344:end  :install-host        : host-attr
+1537320345:start:extract             : host-acl
+1537320345:end  :extract             : host-acl
+1537320345:start:patch               : host-acl
+1537320346:end  :patch               : host-acl
+1537320346:start:configure           : host-acl
+1537320360:end  :configure           : host-acl
+1537320360:start:build               : host-acl
+1537320385:end  :build               : host-acl
+1537320385:start:install-host        : host-acl
+1537320389:end  :install-host        : host-acl
+1537320390:start:extract             : host-fakeroot
+1537320391:end  :extract             : host-fakeroot
+1537320391:start:patch               : host-fakeroot
+1537320391:end  :patch               : host-fakeroot
+1537320392:start:configure           : host-fakeroot
+1537320431:end  :configure           : host-fakeroot
+1537320431:start:build               : host-fakeroot
+1537320436:end  :build               : host-fakeroot
+1537320437:start:install-host        : host-fakeroot
+1537320438:end  :install-host        : host-fakeroot
+1537320439:start:extract             : host-makedevs
+1537320439:end  :extract             : host-makedevs
+1537320439:start:patch               : host-makedevs
+1537320439:end  :patch               : host-makedevs
+1537320439:start:configure           : host-makedevs
+1537320439:end  :configure           : host-makedevs
+1537320440:start:build               : host-makedevs
+1537320441:end  :build               : host-makedevs
+1537320441:start:install-host        : host-makedevs
+1537320441:end  :install-host        : host-makedevs
+1542542575:start:build               : host-lzip
+1542542576:end  :build               : host-lzip
+1542542576:start:install-host        : host-lzip
+1542542576:end  :install-host        : host-lzip
+1542542586:start:extract             : expat
+1542542587:end  :extract             : expat
+1542542587:start:patch               : expat
+1542542588:end  :patch               : expat
+1542542588:start:configure           : expat
+1542542611:end  :configure           : expat
+1542542611:start:build               : expat
+1542542624:end  :build               : expat
+1542542624:start:install-staging     : expat
+1542542625:end  :install-staging     : expat
+1542542625:start:install-target      : expat
+1542542627:end  :install-target      : expat
+1542544043:start:extract             : host-gperf
+1542544043:end  :extract             : host-gperf
+1542544043:start:patch               : host-gperf
+1542544043:end  :patch               : host-gperf
+1542544044:start:configure           : host-gperf
+1542544059:end  :configure           : host-gperf
+1542544059:start:build               : host-gperf
+1542544067:end  :build               : host-gperf
+1542544067:start:install-host        : host-gperf
+1542544067:end  :install-host        : host-gperf
+1542544079:start:extract             : fontconfig
+1542544081:end  :extract             : fontconfig
+1542544081:start:patch               : fontconfig
+1542544082:end  :patch               : fontconfig
+1542544082:start:configure           : fontconfig
+1542544126:end  :configure           : fontconfig
+1542544126:start:build               : fontconfig
+1542544176:end  :build               : fontconfig
+1542544176:start:install-staging     : fontconfig
+1542544180:end  :install-staging     : fontconfig
+1542544180:start:install-target      : fontconfig
+1542544184:end  :install-target      : fontconfig
+1542544242:start:extract             : pixman
+1542544243:end  :extract             : pixman
+1542544243:start:patch               : pixman
+1542544243:end  :patch               : pixman
+1542544243:start:configure           : pixman
+1542544297:end  :configure           : pixman
+1542544297:start:build               : pixman
+1542544351:end  :build               : pixman
+1542544351:start:install-staging     : pixman
+1542544352:end  :install-staging     : pixman
+1542544352:start:install-target      : pixman
+1542544353:end  :install-target      : pixman
+1542545046:start:extract             : cairo
+1542545052:end  :extract             : cairo
+1542545052:start:patch               : cairo
+1542545053:end  :patch               : cairo
+1542545053:start:configure           : cairo
+1542545212:end  :configure           : cairo
+1542545212:start:build               : cairo
+1542545532:end  :build               : cairo
+1542545532:start:install-staging     : cairo
+1542545535:end  :install-staging     : cairo
+1542545535:start:install-target      : cairo
+1542545538:end  :install-target      : cairo
+1542545559:start:extract             : libsvg
+1542545560:end  :extract             : libsvg
+1542545560:start:patch               : libsvg
+1542545560:end  :patch               : libsvg
+1542545561:start:configure           : libsvg
+1542545583:end  :configure           : libsvg
+1542545583:start:build               : libsvg
+1542545596:end  :build               : libsvg
+1542545596:start:install-staging     : libsvg
+1542545597:end  :install-staging     : libsvg
+1542545597:start:install-target      : libsvg
+1542545598:end  :install-target      : libsvg
+1542545614:start:extract             : libsvg-cairo
+1542545614:end  :extract             : libsvg-cairo
+1542545614:start:patch               : libsvg-cairo
+1542545614:end  :patch               : libsvg-cairo
+1542545615:start:configure           : libsvg-cairo
+1542545637:end  :configure           : libsvg-cairo
+1542545637:start:build               : libsvg-cairo
+1542545641:end  :build               : libsvg-cairo
+1542545641:start:install-staging     : libsvg-cairo
+1542545642:end  :install-staging     : libsvg-cairo
+1542545642:start:install-target      : libsvg-cairo
+1542545643:end  :install-target      : libsvg-cairo
+1542545649:start:extract             : tslib
+1542545649:end  :extract             : tslib
+1542545649:start:patch               : tslib
+1542545649:end  :patch               : tslib
+1542545650:start:configure           : tslib
+1542545676:end  :configure           : tslib
+1542545676:start:build               : tslib
+1542545718:end  :build               : tslib
+1542545718:start:install-staging     : tslib
+1542545721:end  :install-staging     : tslib
+1542545721:start:install-target      : tslib
+1542545724:end  :install-target      : tslib
+1542545745:start:extract             : directfb
+1542545746:end  :extract             : directfb
+1542545746:start:patch               : directfb
+1542545747:end  :patch               : directfb
+1542545747:start:configure           : directfb
+1542545882:end  :configure           : directfb
+1542545883:start:build               : directfb
+1542546399:end  :build               : directfb
+1542546399:start:install-staging     : directfb
+1542546412:end  :install-staging     : directfb
+1542546412:start:install-target      : directfb
+1542546425:end  :install-target      : directfb
+1542546440:start:extract             : libid3tag
+1542546440:end  :extract             : libid3tag
+1542546440:start:patch               : libid3tag
+1542546441:end  :patch               : libid3tag
+1542546441:start:configure           : libid3tag
+1542546464:end  :configure           : libid3tag
+1542546465:start:build               : libid3tag
+1542546474:end  :build               : libid3tag
+1542546474:start:install-staging     : libid3tag
+1542546475:end  :install-staging     : libid3tag
+1542546475:start:install-target      : libid3tag
+1542546476:end  :install-target      : libid3tag
+1542546504:start:extract             : libmad
+1542546504:end  :extract             : libmad
+1542546504:start:patch               : libmad
+1542546505:end  :patch               : libmad
+1542546505:start:configure           : libmad
+1542546538:end  :configure           : libmad
+1542546538:start:build               : libmad
+1542546548:end  :build               : libmad
+1542546548:start:install-staging     : libmad
+1542546549:end  :install-staging     : libmad
+1542546549:start:install-target      : libmad
+1542546550:end  :install-target      : libmad
+1542546569:start:extract             : madplay
+1542546569:end  :extract             : madplay
+1542546570:start:patch               : madplay
+1542546570:end  :patch               : madplay
+1542546570:start:configure           : madplay
+1542546624:end  :configure           : madplay
+1542546625:start:build               : madplay
+1542546632:end  :build               : madplay
+1542546632:start:install-target      : madplay
+1542546633:end  :install-target      : madplay
+1542546644:start:extract             : nano
+1542546645:end  :extract             : nano
+1542546645:start:patch               : nano
+1542546646:end  :patch               : nano
+1542546646:start:configure           : nano
+1542546779:end  :configure           : nano
+1542546779:start:build               : nano
+1542546805:end  :build               : nano
+1542546805:start:install-target      : nano
+1542546806:end  :install-target      : nano
+1542546817:start:extract             : sdl2_gfx
+1542546817:end  :extract             : sdl2_gfx
+1542546817:start:patch               : sdl2_gfx
+1542546818:end  :patch               : sdl2_gfx
+1542546818:start:configure           : sdl2_gfx
+1542546854:end  :configure           : sdl2_gfx
+1542546854:start:build               : sdl2_gfx
+1542546863:end  :build               : sdl2_gfx
+1542546863:start:install-staging     : sdl2_gfx
+1542546864:end  :install-staging     : sdl2_gfx
+1542546864:start:install-target      : sdl2_gfx
+1542546866:end  :install-target      : sdl2_gfx
+1542547360:start:extract             : sdl2_image
+1542547361:end  :extract             : sdl2_image
+1542547361:start:patch               : sdl2_image
+1542547362:end  :patch               : sdl2_image
+1542547362:start:configure           : sdl2_image
+1542547379:end  :configure           : sdl2_image
+1542547379:start:build               : sdl2_image
+1542547391:end  :build               : sdl2_image
+1542547391:start:install-staging     : sdl2_image
+1542547392:end  :install-staging     : sdl2_image
+1542547392:start:install-target      : sdl2_image
+1542547393:end  :install-target      : sdl2_image
+1542548055:start:extract             : sdl2_mixer
+1542548057:end  :extract             : sdl2_mixer
+1542548057:start:patch               : sdl2_mixer
+1542548058:end  :patch               : sdl2_mixer
+1542548058:start:configure           : sdl2_mixer
+1542548076:end  :configure           : sdl2_mixer
+1542548076:start:build               : sdl2_mixer
+1542548092:end  :build               : sdl2_mixer
+1542548092:start:install-staging     : sdl2_mixer
+1542548093:end  :install-staging     : sdl2_mixer
+1542548093:start:install-target      : sdl2_mixer
+1542548094:end  :install-target      : sdl2_mixer
+1542548122:start:extract             : sdl2_net
+1542548122:end  :extract             : sdl2_net
+1542548122:start:patch               : sdl2_net
+1542548123:end  :patch               : sdl2_net
+1542548123:start:configure           : sdl2_net
+1542548141:end  :configure           : sdl2_net
+1542548142:start:build               : sdl2_net
+1542548146:end  :build               : sdl2_net
+1542548146:start:install-staging     : sdl2_net
+1542548146:end  :install-staging     : sdl2_net
+1542548147:start:install-target      : sdl2_net
+1542548147:end  :install-target      : sdl2_net
+1542548360:start:extract             : sdl2_ttf
+1542548361:end  :extract             : sdl2_ttf
+1542548361:start:patch               : sdl2_ttf
+1542548362:end  :patch               : sdl2_ttf
+1542548362:start:configure           : sdl2_ttf
+1542548399:end  :configure           : sdl2_ttf
+1542548400:start:build               : sdl2_ttf
+1542548407:end  :build               : sdl2_ttf
+1542548407:start:install-staging     : sdl2_ttf
+1542548408:end  :install-staging     : sdl2_ttf
+1542548408:start:install-target      : sdl2_ttf
+1542548410:end  :install-target      : sdl2_ttf
+1542549198:start:extract             : wpa_supplicant
+1542549199:end  :extract             : wpa_supplicant
+1542549199:start:patch               : wpa_supplicant
+1542549199:end  :patch               : wpa_supplicant
+1542549199:start:configure           : wpa_supplicant
+1542549199:end  :configure           : wpa_supplicant
+1542549200:start:build               : wpa_supplicant
+1542549256:end  :build               : wpa_supplicant
+1542549257:start:install-staging     : wpa_supplicant
+1542549257:end  :install-staging     : wpa_supplicant
+1542549257:start:install-target      : wpa_supplicant
+1542549258:end  :install-target      : wpa_supplicant

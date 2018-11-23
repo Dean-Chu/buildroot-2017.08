@@ -1,0 +1,2 @@
+/home/dean/sunxi-v3s/buildroot-2017.08/package/libsvg/0001-fix-expat-static-declaration.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/libsvg/0002-Fix-undefined-symbol-png_set_gray_1_2_4_to_8.patch

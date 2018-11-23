@@ -1,0 +1,7 @@
+/home/dean/sunxi-v3s/buildroot-2017.08/package/mplayer/0001-disable-install-strip.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/mplayer/0002-mpdemux-live555-async-interface.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/mplayer/0003-configure-armv8.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/mplayer/0004-configure-zlib.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/mplayer/0005-tremor-ogg.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/mplayer/0006-musl-ldt.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/mplayer/0007-fixmmx.patch

@@ -1,0 +1,2 @@
+/home/dean/sunxi-v3s/buildroot-2017.08/package/sdl_mixer/0001-Add-Libs.private-field-to-pkg-config-file.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/sdl_mixer/0002-add-LDFLAGS-while-linking.patch

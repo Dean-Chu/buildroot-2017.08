@@ -1,0 +1,48 @@
+# Variable needed by LTLIBINTL.
+top_builddir=../..
+
+# Variable needed by xgettext.
+GETTEXTDATADIR="$abs_top_srcdir"
+export GETTEXTDATADIR
+
+OBJEXT="o"
+EXEEXT=""
+CC="/usr/bin/gcc"
+CFLAGS="-O2 -I/home/dean/sunxi-v3s/buildroot-2017.08/output/host/include"
+CXX="/usr/bin/g++"
+CXXFLAGS="-O2 -I/home/dean/sunxi-v3s/buildroot-2017.08/output/host/include"
+CPPFLAGS="-I/home/dean/sunxi-v3s/buildroot-2017.08/output/host/include"
+LDFLAGS="-L/home/dean/sunxi-v3s/buildroot-2017.08/output/host/lib -Wl,-rpath,/home/dean/sunxi-v3s/buildroot-2017.08/output/host/lib"
+LTLIBINTL=""
+JAVA_CHOICE="no"
+BUILDJAVA="no"
+TESTJAVA="no"
+CSHARP_CHOICE="no"
+BUILDCSHARP="no"
+TESTCSHARP="no"
+TESTLIBASPRINTF="no"
+GLIBC2="yes"
+LOCALE_FR="none"
+LOCALE_FR_UTF8="none"
+LOCALE_JA="none"
+host_os="linux-gnu"
+ARCHIVE_VERSION="0.19.8"
+
+: ${GETTEXT=tstgettext}
+: ${NGETTEXT=tstngettext}
+: ${XGETTEXT=xgettext}
+: ${MSGATTRIB=msgattrib}
+: ${MSGCAT=msgcat}
+: ${MSGCMP=msgcmp}
+: ${MSGCOMM=msgcomm}
+: ${MSGCONV=msgconv}
+: ${MSGEN=msgen}
+: ${MSGEXEC=msgexec}
+: ${MSGFILTER=msgfilter}
+: ${MSGFMT=msgfmt}
+: ${MSGGREP=msggrep}
+: ${MSGINIT=msginit}
+: ${MSGMERGE=msgmerge}
+: ${MSGUNFMT=msgunfmt}
+: ${MSGUNIQ=msguniq}
+: ${RECODE=recode}

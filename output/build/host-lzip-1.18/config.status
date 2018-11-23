@@ -1,0 +1,8 @@
+#! /bin/sh
+# This file was generated automatically by configure. Don't edit.
+# Run this file to recreate the current configuration.
+#
+# This script is free software: you have unlimited permission
+# to copy, distribute and modify it.
+
+exec /bin/sh ./configure  "--prefix=/home/dean/sunxi-v3s/buildroot-2017.08/output/host" "PATH=/home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin:/home/dean/sunxi-v3s/buildroot-2017.08/output/host/sbin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/opt/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabihf/bin" "PKG_CONFIG=/home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/pkg-config" "PKG_CONFIG_SYSROOT_DIR=/" "PKG_CONFIG_ALLOW_SYSTEM_CFLAGS=1" "PKG_CONFIG_ALLOW_SYSTEM_LIBS=1" "PKG_CONFIG_LIBDIR=/home/dean/sunxi-v3s/buildroot-2017.08/output/host/lib/pkgconfig:/home/dean/sunxi-v3s/buildroot-2017.08/output/host/share/pkgconfig" "AR=/usr/bin/ar" "AS=/usr/bin/as" "LD=/usr/bin/ld" "NM=/usr/bin/nm" "CC=/usr/bin/gcc" "GCC=/usr/bin/gcc" "CXX=/usr/bin/g++" "CPP=/usr/bin/cpp" "OBJCOPY=/usr/bin/objcopy" "RANLIB=/usr/bin/ranlib" "CPPFLAGS=-I/home/dean/sunxi-v3s/buildroot-2017.08/output/host/include" "CFLAGS=-O2 -I/home/dean/sunxi-v3s/buildroot-2017.08/output/host/include" "CXXFLAGS=-O2 -I/home/dean/sunxi-v3s/buildroot-2017.08/output/host/include" "LDFLAGS=-L/home/dean/sunxi-v3s/buildroot-2017.08/output/host/lib -Wl,-rpath,/home/dean/sunxi-v3s/buildroot-2017.08/output/host/lib" "INTLTOOL_PERL=/usr/bin/perl" --no-create

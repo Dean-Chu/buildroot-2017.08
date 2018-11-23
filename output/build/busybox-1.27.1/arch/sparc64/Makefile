@@ -1,0 +1,1 @@
+ARCH_FPIC = -fPIC

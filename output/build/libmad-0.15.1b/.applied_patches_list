@@ -1,0 +1,5 @@
+/home/dean/sunxi-v3s/buildroot-2017.08/dl/frame_length.diff
+/home/dean/sunxi-v3s/buildroot-2017.08/package/libmad/0001-mips-h-constraint-removal.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/libmad/0003-remove-deprecated-cflags.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/libmad/0004-thumb2-fixed-arm.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/libmad/0005-thumb2-imdct-arm.patch

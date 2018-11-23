@@ -1,0 +1,3 @@
+/home/dean/sunxi-v3s/buildroot-2017.08/package/libnl/0001-build-add-Libs.private-field-in-libnl-pkg-config-fil.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/libnl/0002-Add-musl-workaround-to-the-libc-compat.h-copy.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/libnl/0003-Revert-build-enable-building-cli-during-tests.patch

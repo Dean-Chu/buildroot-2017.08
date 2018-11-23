@@ -1,0 +1,164 @@
+--------------------
+./configure --shared --prefix=/usr
+2018年 09月 19日 星期三 02:28:26 CST
+=== ztest1787.c ===
+extern int getchar();
+int hello() {return getchar();}
+===
+/home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/arm-linux-gnueabihf-gcc -c ztest1787.c
+... using gcc
+
+Checking for obsessive-compulsive compiler options...
+=== ztest1787.c ===
+int foo() { return 0; }
+===
+/home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/arm-linux-gnueabihf-gcc -c -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -Os -fPIC ztest1787.c
+
+Checking for shared library support...
+=== ztest1787.c ===
+extern int getchar();
+int hello() {return getchar();}
+===
+/home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/arm-linux-gnueabihf-gcc -w -c -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -Os -fPIC -fPIC ztest1787.c
+/home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/arm-linux-gnueabihf-gcc -shared -Wl,-soname,libz.so.1,--version-script,zlib.map -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -Os -fPIC -fPIC -o ztest1787.so ztest1787.o
+Building shared library libz.so.1.2.11 with /home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/arm-linux-gnueabihf-gcc.
+
+=== ztest1787.c ===
+#include <stdio.h>
+#include <stdlib.h>
+size_t dummy = 0;
+===
+/home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/arm-linux-gnueabihf-gcc -c -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -Os -fPIC ztest1787.c
+Checking for size_t... Yes.
+
+
+=== ztest1787.c ===
+#include <sys/types.h>
+off64_t dummy = 0;
+===
+/home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/arm-linux-gnueabihf-gcc -c -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -Os -fPIC -D_LARGEFILE64_SOURCE=1 ztest1787.c
+Checking for off64_t... Yes.
+Checking for fseeko... Yes.
+
+=== ztest1787.c ===
+#include <string.h>
+#include <errno.h>
+int main() { return strlen(strerror(errno)); }
+===
+/home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/arm-linux-gnueabihf-gcc -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -Os -fPIC -D_LARGEFILE64_SOURCE=1 -o ztest1787 ztest1787.c
+Checking for strerror... Yes.
+
+=== ztest1787.c ===
+#include <unistd.h>
+int main() { return 0; }
+===
+/home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/arm-linux-gnueabihf-gcc -c -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -Os -fPIC -D_LARGEFILE64_SOURCE=1 ztest1787.c
+Checking for unistd.h... Yes.
+
+=== ztest1787.c ===
+#include <stdarg.h>
+int main() { return 0; }
+===
+/home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/arm-linux-gnueabihf-gcc -c -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -Os -fPIC -D_LARGEFILE64_SOURCE=1 ztest1787.c
+Checking for stdarg.h... Yes.
+
+=== ztest1787.c ===
+#include <stdio.h>
+#include <stdarg.h>
+#include "zconf.h"
+int main()
+{
+#ifndef STDC
+  choke me
+#endif
+  return 0;
+}
+===
+/home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/arm-linux-gnueabihf-gcc -c -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -Os -fPIC -D_LARGEFILE64_SOURCE=1 ztest1787.c
+Checking whether to use vs[n]printf() or s[n]printf()... using vs[n]printf().
+
+=== ztest1787.c ===
+#include <stdio.h>
+#include <stdarg.h>
+int mytest(const char *fmt, ...)
+{
+  char buf[20];
+  va_list ap;
+  va_start(ap, fmt);
+  vsnprintf(buf, sizeof(buf), fmt, ap);
+  va_end(ap);
+  return 0;
+}
+int main()
+{
+  return (mytest("Hello%d\n", 1));
+}
+===
+/home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/arm-linux-gnueabihf-gcc -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -Os -fPIC -D_LARGEFILE64_SOURCE=1 -o ztest1787 ztest1787.c
+Checking for vsnprintf() in stdio.h... Yes.
+
+=== ztest1787.c ===
+#include <stdio.h>
+#include <stdarg.h>
+int mytest(const char *fmt, ...)
+{
+  int n;
+  char buf[20];
+  va_list ap;
+  va_start(ap, fmt);
+  n = vsnprintf(buf, sizeof(buf), fmt, ap);
+  va_end(ap);
+  return n;
+}
+int main()
+{
+  return (mytest("Hello%d\n", 1));
+}
+===
+/home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/arm-linux-gnueabihf-gcc -c -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -Os -fPIC -D_LARGEFILE64_SOURCE=1 ztest1787.c
+Checking for return value of vsnprintf()... Yes.
+
+=== ztest1787.c ===
+#define ZLIB_INTERNAL __attribute__((visibility ("hidden")))
+int ZLIB_INTERNAL foo;
+int main()
+{
+  return 0;
+}
+===
+/home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/arm-linux-gnueabihf-gcc -c -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -Os -fPIC -D_LARGEFILE64_SOURCE=1 ztest1787.c
+Checking for attribute(visibility) support... Yes.
+
+ALL = static shared all64
+AR = /home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/arm-linux-gnueabihf-ar
+ARFLAGS = rc
+CC = /home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/arm-linux-gnueabihf-gcc
+CFLAGS = -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -Os -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN
+CPP = /home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/arm-linux-gnueabihf-cpp
+EXE =
+LDCONFIG = ldconfig
+LDFLAGS =
+LDSHARED = /home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/arm-linux-gnueabihf-gcc -shared -Wl,-soname,libz.so.1,--version-script,zlib.map
+LDSHAREDLIBC = -lc
+OBJC = $(OBJZ) $(OBJG)
+PIC_OBJC = $(PIC_OBJZ) $(PIC_OBJG)
+RANLIB = /home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/arm-linux-gnueabihf-ranlib
+SFLAGS = -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -Os -fPIC -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN
+SHAREDLIB = libz.so
+SHAREDLIBM = libz.so.1
+SHAREDLIBV = libz.so.1.2.11
+STATICLIB = libz.a
+TEST = all teststatic testshared test64
+VER = 1.2.11
+Z_U4 =
+SRCDIR =
+exec_prefix = ${prefix}
+includedir = ${prefix}/include
+libdir = ${exec_prefix}/lib
+mandir = ${prefix}/share/man
+prefix = /usr
+sharedlibdir = ${libdir}
+uname = Linux
+--------------------
+
+

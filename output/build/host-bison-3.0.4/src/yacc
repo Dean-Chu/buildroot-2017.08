@@ -1,0 +1,2 @@
+#! /bin/sh
+exec '/home/dean/sunxi-v3s/buildroot-2017.08/output/host/bin/bison' -y "$@"

@@ -1,0 +1,5 @@
+/home/dean/sunxi-v3s/buildroot-2017.08/package/alsa-lib/0001-musl-pcm-h.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/alsa-lib/0002-no-mmu.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/alsa-lib/0003-dlmisc.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/alsa-lib/0004-conditional-enabling-of-libdl-in-m4.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/alsa-lib/0005-src-rawmidi-rawmidi_symbols.c-use-rawmidi_virt-only-.patch

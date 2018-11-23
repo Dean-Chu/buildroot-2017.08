@@ -1,0 +1,6 @@
+/home/dean/sunxi-v3s/buildroot-2017.08/package/directfb/0001-fix-missing-davinci-voodoo-header.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/directfb/0002-imlib2-config.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/directfb/0003-setregion-lock.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/directfb/0004-use-gcc-link.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/directfb/0005-add-missing-idivine-header.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/directfb/0006-fix-client-gfx_state-initialisation.patch

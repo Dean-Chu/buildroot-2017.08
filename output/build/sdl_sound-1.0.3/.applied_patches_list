@@ -1,0 +1,3 @@
+/home/dean/sunxi-v3s/buildroot-2017.08/package/sdl_sound/0001-fix-constness.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/sdl_sound/0002-remove-werror.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/sdl_sound/0003-renamed-physfs-export.patch

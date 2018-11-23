@@ -1,0 +1,10 @@
+090dde7adf8e77be248f27e3ae615e46  ./etc/group
+359ec096fae48c11cdb9adb8e113bc3c  ./etc/profile.d/umask.sh
+3df817d0e17aa2224a94c2d89bf8a88e  ./THIS_IS_NOT_YOUR_ROOT_FILESYSTEM
+4291fb00ec609b5b007ff9b3048e9248  ./etc/hosts
+65553a1d0273070536b3daf91618c372  ./etc/profile
+7c04e662b37e09a98c46141cf08fb247  ./etc/passwd
+91768f15d2bdcd21972564048e4fe2e2  ./etc/shadow
+9528c60fae7c1680f86f2f20f9091192  ./etc/fstab
+9ebdc6f90a6070a1cdac5ecde97fbd33  ./etc/services
+a15e99b47a5596f2593399c71bf3bade  ./etc/protocols

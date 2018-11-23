@@ -1,0 +1,3 @@
+/home/dean/sunxi-v3s/buildroot-2017.08/package/attr/0001-support-static-installation.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/attr/0002-avoid-glibc-specific-decls-defines.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/attr/0003-portability-fixes.patch

@@ -1,0 +1,4 @@
+/home/dean/sunxi-v3s/buildroot-2017.08/package/busybox/0001-networking-libiproute-use-linux-if_packet.h-instead-.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/busybox/0002-Makefile.flags-strip-non-l-arguments-returned-by-pkg.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/busybox/0003-Makefile-include-per-arch-Makefile-before-Makefile.f.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/busybox/0004-arch-sparc-sparc64-Makefile-define-ARCH_FPIC.patch
