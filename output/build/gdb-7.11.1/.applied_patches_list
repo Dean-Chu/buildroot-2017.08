@@ -1,0 +1,6 @@
+/home/dean/sunxi-v3s/buildroot-2017.08/package/gdb//7.11.1/0001-sim-bfin-split-out-common-mach-model-defines-into-ar.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/gdb//7.11.1/0002-Sync-proc_service-definition-with-GLIBC.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/gdb//7.11.1/0003-ppc-ptrace-Define-pt_regs-uapi_pt_regs-on-GLIBC-syst.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/gdb//7.11.1/0004-sh-ptrace-Define-pt_-dsp-regs-uapi_pt_-dsp-regs-on-G.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/gdb//7.11.1/0005-Fix-gdbserver-build-on-uClibc-noMMU.patch
+/home/dean/sunxi-v3s/buildroot-2017.08/package/gdb//7.11.1/0006-use-asm-sgidefs.h.patch

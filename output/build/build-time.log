@@ -806,3 +806,13 @@
 1542549257:end  :install-staging     : wpa_supplicant
 1542549257:start:install-target      : wpa_supplicant
 1542549258:end  :install-target      : wpa_supplicant
+1543842353:start:extract             : gdb
+1543842361:end  :extract             : gdb
+1543842362:start:patch               : gdb
+1543842363:end  :patch               : gdb
+1543842363:start:configure           : gdb
+1543842371:end  :configure           : gdb
+1543842372:start:build               : gdb
+1543843457:end  :build               : gdb
+1543843457:start:install-target      : gdb
+1543843470:end  :install-target      : gdb
